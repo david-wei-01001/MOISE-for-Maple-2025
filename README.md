@@ -6,6 +6,7 @@ rah@grip.cis.upenn.edu
 Jiankun (David) Wei update this library to be compatible with the most up to date maple engine Maple 2025
 jiankun.wei@mail.utoronto.ca
 
-
+## Downloading Maple
+https://www.maplesoft.com/
 
 
