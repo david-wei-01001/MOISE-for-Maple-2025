@@ -1,5 +1,5 @@
 # MOISE 
-MOISE is a Topology package created Dr. R. Andrew Hicks
+MOISE is a Topology library for Maple engine created Dr. R. Andrew Hicks
 rah@grip.cis.upenn.edu
 
 ## MOISE for Maple 2025
