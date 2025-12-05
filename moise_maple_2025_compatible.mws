@@ -1,0 +1,642 @@
+{VERSION 4 0 "Mac OS X" "4.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0
+ 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Tit
+le" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 
+}3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variab
+le" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple C
+omment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Pop
+up" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomi
+c Variable" -1 200 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Code" -1 201 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1
+ }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2
+ 0 0 0 1 }{CSTYLE "Header and Footer" -1 202 "Times" 1 10 0 0 0 1 2 2 
+2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 
+2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small208" -1 203 "Times" 
+1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small209" -1 
+204 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 205 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Tim
+es" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 
+1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Ti
+mes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholde
+r" -1 206 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE 
+"LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help \+
+Emphasized" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "E
+quation Label" -1 207 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small210" -1 208 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2
+ 0 0 0 1 }{CSTYLE "Caption Text" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 
+1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 
+147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 
+255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 
+14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12
+ 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 210 "Time
+s" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Page Number" -1 33
+ "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 
+"Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Sm
+all" -1 211 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math \+
+Symbol 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D \+
+Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Non
+terminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "A
+nnotation Text" -1 212 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 
+2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 213 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 
+0 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "Times" 
+1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 210 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 
+2 -1 1 }{CSTYLE "" -1 214 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 215 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"" -1 216 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
+217 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 218 "Cou
+rier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 219 "Courier" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 220 "Courier" 1 12 0 0 0
+ 1 2 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 221 "Courier" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "" -1 222 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "" -1 223 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 224 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"" -1 225 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
+226 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 227 "Cou
+rier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 228 "Courier" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 229 "Courier" 1 12 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 230 "Courier" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "" -1 231 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "" -1 232 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 233 "Courier" 1 18 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"" -1 234 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 
+211 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 235 "Courier" 1 12 0 0 0 1 2 2 
+2 2 2 2 0 0 0 1 }{CSTYLE "" -1 236 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "" -1 237 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "" -1 238 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE
+ "" -1 239 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
+240 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 241 "Cou
+rier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 242 "Courier" 1 
+10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 243 "Courier" 1 10 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 212 1 {CSTYLE "" -1 -1 "Times" 1
+ 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE
+ "" -1 244 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
+245 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 246 "Cou
+rier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 247 "Courier" 1 
+10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 248 "Courier" 1 10 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 249 "Courier" 1 10 0 0 0 1 2 2 2
+ 2 2 2 0 0 0 1 }{PSTYLE "" -1 213 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 
+0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT 205 37 "MOISE  - A Topology Pack
+age for Maple" }}{PARA 0 "" 0 "" {TEXT 205 1 "\n" }{TEXT 205 16 "R. An
+drew Hicks\n" }{TEXT 205 22 "rah@grip.cis.upenn.edu" }}{PARA 0 "" 0 ""
+ {TEXT 205 0 "" }}{PARA 0 "" 0 "" {TEXT 205 45 "___________________ Ne
+w _____________________" }}{PARA 0 "" 0 "" {TEXT 205 20 "Jiankun (Davi
+d) Wei " }}{PARA 0 "" 0 "" {TEXT 205 91 "Daivd update this library to \+
+be compatible with the most up to date maple engine Maple 2025" }}
+{PARA 0 "" 0 "" {TEXT 205 28 "jiankun.wei@mail.utoronto.ca" }}{PARA 0 
+"" 0 "" {TEXT 250 0 "" }}}{SECT 0 {PARA 208 "" 0 "" {TEXT 205 12 "Intr
+oduction" }}{PARA 209 "" 0 "" {TEXT 205 560 "Welcome to the worksheet \+
+version of MOISE, a Maple library for doing calculations with simplici
+al complexes. MOISE started out as just the procedure \"homology\", wh
+ich computes the homology of a simplicial complex. The algorithm used \+
+by \"homology\" follows the one given in James Munkres' book \"Algebra
+ic Topology\". It is an old and straightforward method for computing h
+omology groups, but one that is hard to do by hand. In addition to com
+puting the homology groups of a complex, MOISE also contains a number \+
+of functions that operate on simplicial complexes:\n" }{TEXT 205 1 "\n
+" }{TEXT 205 48 "1) simplx(n) - create an n-dimensional simplex.\n" }
+{TEXT 205 35 "2) sphere(n) - create an n-sphere.\n" }{TEXT 205 77 "3) \+
+cone(C, p) - create the cone over the complex C with p as the cone poi
+nt.\n" }{TEXT 205 66 "4) suspension(C, p, q) - create the suspension o
+f C over p and q.\n" }{TEXT 205 57 "5) conn_sum(X, Y) - create the con
+nected sum of X and Y.\n" }{TEXT 205 53 "6) oiler(C) - compute the Eul
+er characteristic of C.\n" }{TEXT 205 1 "\n" }{TEXT 205 951 "Currently
+ there are a number of important operations missing - notably quotient
+s and products. Quotients can of course be done by hand (using subs!),
+ as is illustrated by the below example of the construction of the cyl
+inder from the square. Products are a trickier thing. Currently my pla
+n to actually implement a means of handling fibre bundles, and of cour
+se products are a special case of fibre bundles. Closely related to th
+is is the issue of group actions, another project for the future. Thes
+e three topics - quotient spaces, fibre bundles and groups actions are
+ all coupled together, and so I have opted not to introduce a few piec
+es and instead I will eventually implement a general system. Of course
+ there are all kinds of other things that could be done, such as work \+
+in categories other than the simplicial one. Cubes would be more effic
+ient certainly, or some other kind of generalized cell complex, or per
+haps even algebraic varieties. \n" }{TEXT 205 1 "\n" }{TEXT 205 271 "R
+egarding efficiency: there are many ways in which the procedures below
+ could be optimized. I wanted the code to closely follow the mathemati
+cs in this first version to keep everything clear. This is another rea
+son that I want to stay in the simplicial category for now. " }}{PARA 
+210 "" 0 "" {TEXT 214 180 "If you have any questions about the routine
+s or are interested in talking about algorithms in topology and algebr
+a, please don't hesitate to contact me at the above email address.\n" 
+}{TEXT 215 21 "I hope you have fun!\n" }{TEXT 216 1 "\n" }{TEXT 217 
+11 "Andy Hicks\n" }{TEXT 218 1 "\n" }{TEXT 219 1 "\n" }{TEXT 220 36 "H
+ow to use the procedure \"homology\":" }{TEXT 221 1 "\n" }{TEXT 222 1 
+"\n" }{TEXT 223 371 "What you need to know is what to feed into the pr
+ocedure \"homology\" and  how to interpret what comes out of it. The o
+utput is easy to understand - it is a pair of lists. The first list is
+ a list of the betti numbers, from the lowest dimension  to the highes
+t. The second list is a list of the torsion coefficients in each dimen
+sion, again from the lowest to the highest.\n" }{TEXT 224 1 "\n" }
+{TEXT 225 213 "To specify a simplicial complex to \"homology\", we use
+ the same definition of an abstract simplicial complex that most peopl
+e are familiar with, namely a set of sets satisfying certain propertie
+s. So, for example,\n" }{TEXT 226 1 "\n" }{TEXT 227 32 "homology(\{\{
+\}, \{1\},\{2\}, \{1,2\}\});\n" }{TEXT 228 1 "\n" }{TEXT 229 456 "will
+ compute the homology of a line segment. This data structure can be aw
+kward if the space is just a little complicated, so I have a few trick
+s to make life easier. First of all, you really should only have to gi
+ve the set consisting of the highest dimensional simplices, since this
+ determines the complex completely. The routine \"complx\", the first \+
+one below, will take such a set and add to it what is needed to make i
+t an official simplicial complex.\n" }{TEXT 230 272 "This is part of t
+he homology procedure, so you don't have to do it. If you do input a v
+alid complex into homology, then that is ok too - complx won't mess it
+ up. A few more tricks and procedures for building complexes are given
+ in the examples at the end of the worksheet." }{TEXT 205 1 "\n" }
+{TEXT 205 1 "\n" }{TEXT 231 222 "If you want to use \"homology\" now, \+
+just enter the section below keep hitting enter until you get to the b
+ottom of the worksheet, where the examples are. You can ignore all of \+
+the code and the comments and start computing.\n" }{TEXT 232 1 "\n" }
+{TEXT 233 7 "WARNING" }{TEXT 234 216 " - each section below assumes th
+at you have executed the code that occurs prior to it. So if you jump \+
+ahead to a section you will get errors from maple since it won't recog
+nize the names of the procedures and spaces." }}{PARA 0 "" 0 "" {TEXT 
+250 0 "" }}}{SECT 0 {PARA 211 "" 0 "" {TEXT 205 32 "The procedures wit
+h explanations" }}{EXCHG {PARA 0 "" 0 "" {TEXT 235 1 "\n" }{TEXT 205 
+438 "A few routines need to be loaded: from linalg, we need \"Smith\",
+ which is applied to the boundary operators to put them in normal form
+. \"powerset\" is used in the procedure \"complx\". Then there are fou
+r list operations I like to use: \"card\" is the cardinality of a list
+ or set, appendb appends an element to the back of a list, \"replace(l
+, i, x)\" replaces the ith element of l with x, and \"delete(l, i)\" d
+eletes the ith element of a list l." }{TEXT 236 1 "\n" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "with(linalg):\n" }{MPLTEXT 1 0 34 "
+with(combinat, powerset, choose):\n" }{MPLTEXT 1 0 22 "card := l -> no
+ps(l):\n" }{MPLTEXT 1 0 33 "appendb := (l, x) -> [op(l), x]:\n" }
+{MPLTEXT 1 0 37 "delete := (l,i) -> subsop(i=NULL,l):\n" }{MPLTEXT 1 
+0 37 "replace := (l,i,x) ->  subsop(i=x,l):" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 205 1 "\n" }{TEXT 205 403 "The rountine \"complx\" will take a \+
+set of simplices and make it into a  simplicial complex by adding what
+ever simplices are needed. The basic data structure used for computati
+on in this worksheet is a simplicial complex, but  a complex is  deter
+mined by the simplices that are maximal with respect to inclusion, so \+
+it the user may define a complex that way, and homology will use \"com
+plx\" to fill it out." }{TEXT 237 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "complx  := proc(l)\n" }{MPLTEXT 1 0 31 "           lo
+cal simplices, i:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 30 "          \+
+ simplices := \{\{\}\}:\n" }{MPLTEXT 1 0 38 "           for i from 1 t
+o card(l) do\n" }{MPLTEXT 1 0 66 "               simplices := simplice
+s union \{op(powerset(l[i]))\}:\n" }{MPLTEXT 1 0 15 "           od:\n"
+ }{MPLTEXT 1 0 22 "           simplices:\n" }{MPLTEXT 1 0 16 "        \+
+   end:\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 205 1 "\n" }{TEXT 205 216 "
+For example, the  simplicial complex \{ \{\}, \{1\}, \{2\}, \{3\},  \{
+4\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}, \{1, 4\} \}, which rep
+resents a topological disc with a line segment stuck to it, is determi
+ned by \{ \{1, 2, 3\}, \{1, 4\}\}:" }{TEXT 238 1 "\n" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 35 "X := complx(\{ \{1, 2, 3\}, \{1, 4\}\}); 
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"XG6\"<,<\"<#\"\"\"<#\"\"#<#\"\"$
+<#\"\"%<$F(F*<$F(F,<$F(F.<$F*F,<%F(F*F," }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 205 1 "\n" }{TEXT 205 317 "\"chains\" takes a simpicial complex \+
+l and a natural number n and creates a list of  the n-dimensional simp
+lices of l. This is important because these simplices form the basis o
+f a vector space  (module) of n-chains, and to write down matrices one
+ needs for the basis vectors to be ordered. (The ordering is arbitrary
+.)" }{TEXT 205 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "cha
+ins :=  proc(l,n)\n" }{MPLTEXT 1 0 30 "          local simplices, i:\n
+" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 27 "          simplices := []:\n"
+ }{MPLTEXT 1 0 37 "          for i from 1 to card(l) do\n" }{MPLTEXT 
+1 0 33 "              if card(l[i])=n+1 \n" }{MPLTEXT 1 0 22 "        \+
+         then\n" }{MPLTEXT 1 0 66 "                     simplices := a
+ppendb(simplices, sort(l[i])):\n" }{MPLTEXT 1 0 18 "              fi:
+\n" }{MPLTEXT 1 0 14 "          od:\n" }{MPLTEXT 1 0 21 "          sim
+plices:\n" }{MPLTEXT 1 0 15 "          end:\n" }{MPLTEXT 1 0 10 "     \+
+     " }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 13 "For example:\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "chains(X, 1);" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "7&<$\"\"\"\"\"#<$F$\"\"$<$F$\"\"%<$F%F'" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 205 156 "\"stratify\" takes a \+
+complex and applies \"chains\" to it for each dimension of the complex
+, producing a list of ordered bases for the chains in each dimension."
+ }{TEXT 205 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "strati
+fy := proc(X)\n" }{MPLTEXT 1 0 32 "            local i, Y, b, fin:\n" 
+}{MPLTEXT 1 0 21 "            Y := []:\n" }{MPLTEXT 1 0 26 "          \+
+  fin := false:\n" }{MPLTEXT 1 0 21 "            i := -1:\n" }{MPLTEXT
+ 1 0 31 "            while fin<>true do\n" }{MPLTEXT 1 0 37 "         \+
+         b := chains(X, i):\n" }{MPLTEXT 1 0 26 "                  if \+
+b=[]\n" }{MPLTEXT 1 0 27 "                     then \n" }{MPLTEXT 1 0 
+39 "                         fin := true: \n" }{MPLTEXT 1 0 23 "      \+
+            else\n" }{MPLTEXT 1 0 42 "                      Y := appen
+db(Y, b):\n" }{MPLTEXT 1 0 32 "                      i := i+1:\n" }
+{MPLTEXT 1 0 22 "                  fi:\n" }{MPLTEXT 1 0 16 "          \+
+  od:\n" }{MPLTEXT 1 0 15 "            Y:\n" }{MPLTEXT 1 0 31 "       \+
+     end:              \n" }{MPLTEXT 1 0 15 "               " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "stratify(X);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "7&7#<\"7&<#\"\"\"<#\"\"#<#\"\"$<#\"\"%7&<$F'F)<$F'F+
+<$F'F-<$F)F+7#<%F'F)F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 239 1 "\n" }
+{TEXT 205 78 "\"wherein\" is just for finding what position in a list \+
+l the element x occurs. " }{TEXT 240 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 22 "wherein := proc(l, x)\n" }{MPLTEXT 1 0 27 "        \+
+   local i, entry:\n" }{MPLTEXT 1 0 38 "           for i from 1 to car
+d(l) do\n" }{MPLTEXT 1 0 25 "               if l[i]=x\n" }{MPLTEXT 1 
+0 34 "                  then entry :=i:\n" }{MPLTEXT 1 0 19 "         \+
+      fi:\n" }{MPLTEXT 1 0 15 "           od:\n" }{MPLTEXT 1 0 18 "   \+
+        entry:\n" }{MPLTEXT 1 0 15 "           end:" }}}{EXCHG {PARA 0
+ "" 0 "" {TEXT 250 1 "\n" }{TEXT 205 200 "\"boundary\" takes as input \+
+ a SINGLE n dimensional simplex and the list of n-1 dimensional simpli
+ces of a complex and produces the matrix of the associated boundary op
+erator. \"boundary\" is used in \"d\"." }{TEXT 205 1 "\n" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "boundary := proc(sim, nmos)\n" }
+{MPLTEXT 1 0 39 "            local i, v, sign, temp, j:\n" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 39 "            v := array(1..card(nmos)):\n"
+ }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 42 "            for i from 1 to ca
+rd(nmos) do\n" }{MPLTEXT 1 0 27 "                v[i] := 0:\n" }
+{MPLTEXT 1 0 16 "            od:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 24 "            sign := -1:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+41 "            for i from 1 to card(sim) do\n" }{MPLTEXT 1 0 41 "    \+
+            temp := delete(sim, i): \n" }{MPLTEXT 1 0 42 "            \+
+    j := wherein(nmos, temp):\n" }{MPLTEXT 1 0 36 "                v[j
+] := (-1)^(i+1):\n" }{MPLTEXT 1 0 16 "            od:\n" }{MPLTEXT 1 
+0 22 "            evalm(v):\n" }{MPLTEXT 1 0 17 "            end:\n" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 241 1 "\n" }{TEXT 205 12 "For example:"
+ }{TEXT 205 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "bounda
+ry(\{1,3\},[\{3\}, \{1\}, \{2\}, \{4\}]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "-I(mfencedG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6
+&-I%mrowGF$6#-I'mtableGF$66-I$mtrGF$6)-I$mtdGF$6(-I#mnGF$6$Q\"1F'/%,ma
+thvariantGQ'normalF'/%)rowalignGQ!F'/%,columnalignGF@/%+groupalignGF@/
+%(rowspanGF:/%+columnspanGF:-F56(-F,6$-I#moGF$6.Q*&uminus0;F'F;/%&fenc
+eGQ&falseF'/%*separatorGFS/%)stretchyGFS/%*symmetricGFS/%(largeopGFS/%
+.movablelimitsGFS/%'accentGFS/%'lspaceGQ,0.2222222emF'/%'rspaceGF\\o/%
+)equalityGFSF7F>FAFCFEFG-F56(-F86$Q\"0F'F;F>FAFCFEFGFaoF>FAFC/%+foregr
+oundGQ([0,0,0]F'/%&alignGQ%axisF'/F?Q)baselineF'/FBQ'centerF'/FDQ'|frl
+eft|hrF'/%/alignmentscopeGQ%trueF'/%,columnwidthGQ%autoF'/%&widthGFgp/
+%+rowspacingGQ&1.0exF'/%.columnspacingGQ&0.8emF'/%)rowlinesGQ%noneF'/%
+,columnlinesGFbq/%&frameGFbq/%-framespacingGQ,0.4em~0.5exF'/%*equalrow
+sGFS/%-equalcolumnsGFS/%-displaystyleGFS/%%sideGQ&rightF'/%0minlabelsp
+acingGF_qF;/%%openGQ\"[F'/%&closeGQ\"]F'" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 250 0 "" }}{PARA 0 "" 0 "" {TEXT 205 378 "d produces the normal \+
+form of a boundary operator. The boundary operator from the n-chains t
+o the (n-1)-chains is a matrix with respect to the bases given to it. \+
+We put the boundary  operator is Smith normal form, so that we can rea
+d off the topological data. The imput to d is a  pair of basis, one fo
+r the n simplices and one for the n-1 simplices, and the output is a m
+atrix." }{TEXT 242 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 
+" d := proc(ns, nmos)\n" }{MPLTEXT 1 0 19 "      local i, bo:\n" }
+{MPLTEXT 1 0 16 "      bo := []:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 34 "      for i from 1 to card(ns) do\n" }{MPLTEXT 1 0 51 "         \+
+ bo := appendb(bo,boundary(ns[i], nmos));\n" }{MPLTEXT 1 0 10 "      o
+d:\n" }{MPLTEXT 1 0 37 "      ismith(transpose(matrix(bo))):\n" }
+{MPLTEXT 1 0 11 "      end:\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "
+\n" }{TEXT 205 12 "For example:" }{TEXT 250 1 "\n" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 34 "d(stratify(X)[4], stratify(X)[3]);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "-I(mfencedG6#/I+modulenameG6\"I,TypesettingGI(
+_syslibGF'6&-I%mrowGF$6#-I'mtableGF$69-I$mtrGF$6&-I$mtdGF$6(-I#mnGF$6$
+Q\"1F'/%,mathvariantGQ'normalF'/%)rowalignGQ!F'/%,columnalignGF@/%+gro
+upalignGF@/%(rowspanGF:/%+columnspanGF:F>FAFC-F26&-F56(-F86$Q\"0F'F;F>
+FAFCFEFGF>FAFCFIFI/%+foregroundGQ([0,0,0]F'/%&alignGQ%axisF'/F?Q)basel
+ineF'/FBQ&rightF'/FDQ'|frleft|hrF'/%/alignmentscopeGQ%trueF'/%,columnw
+idthGQ%autoF'/%&widthGF[o/%+rowspacingGQ&1.0exF'/%.columnspacingGQ&0.8
+emF'/%)rowlinesGQ%noneF'/%,columnlinesGFfo/%&frameGFfo/%-framespacingG
+Q,0.4em~0.5exF'/%*equalrowsGQ&falseF'/%-equalcolumnsGF`p/%-displaystyl
+eGF`p/%%sideGFY/%0minlabelspacingGFcoF;/%%openGQ\"[F'/%&closeGQ\"]F'" 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 205 78 "\"diag\" is \+
+for pulling off the torsion coefficents from the boundary operators." 
+}{TEXT 243 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "david_d
+iag := proc(A)\n" }{MPLTEXT 1 0 26 "        local i, torsion:\n" }
+{MPLTEXT 1 0 23 "        torsion := []:\n" }{MPLTEXT 1 0 53 "        f
+or i from 1 to min(coldim(A), rowdim(A)) do\n" }{MPLTEXT 1 0 27 "     \+
+       if A[i,i] > 1 \n" }{MPLTEXT 1 0 21 "               then \n" }
+{MPLTEXT 1 0 56 "                   torsion := appendb(torsion, A[i,i]
+):\n" }{MPLTEXT 1 0 16 "            fi:\n" }{MPLTEXT 1 0 12 "        o
+d:\n" }{MPLTEXT 1 0 17 "        torsion:\n" }{MPLTEXT 1 0 13 "        \+
+end:\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 205 27 "Here is the main routi
+ne: \n" }{TEXT 205 49 "\"bops\" is just a list of the boundary operato
+rs.\n" }{TEXT 205 64 "\"basislist\" is a list of bases for the chains \+
+in each dimension." }{TEXT 205 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 73 "### WARNING: `homology` might conflict with Maple's m
+eaning of that name\n" }{MPLTEXT 1 0 20 "homology := proc(X)\n" }
+{MPLTEXT 1 0 68 "            local i, dim, bops, basislist, mats, Bett
+i, Torsion, C:\n" }{MPLTEXT 1 0 25 "            Betti := []:\n" }
+{MPLTEXT 1 0 27 "            Torsion := []:\n" }{MPLTEXT 1 0 24 "     \+
+       bops := []:\n" }{MPLTEXT 1 0 28 "            C := complx(X):\n"
+ }{MPLTEXT 1 0 38 "            basislist := stratify(C):\n" }{MPLTEXT 
+1 0 36 "            dim := card(basislist):\n" }{MPLTEXT 1 0 13 "     \+
+       \n" }{MPLTEXT 1 0 37 "            for i from 1 to dim-1 do\n" }
+{MPLTEXT 1 0 73 "                bops := appendb(bops , d(basislist[i+
+1], basislist[i])):\n" }{MPLTEXT 1 0 16 "            od:\n" }{MPLTEXT 
+1 0 26 "            mats := bops:\n" }{MPLTEXT 1 0 14 "             \n
+" }{MPLTEXT 1 0 45 "            for i from 1 to card(mats)-1 do:\n" }
+{MPLTEXT 1 0 68 "                Betti := appendb(Betti, rowdim(transp
+ose(mats[i])) \n" }{MPLTEXT 1 0 79 "                                - \+
+rank(transpose(mats[i])) - rank(mats[i+1])):\n" }{MPLTEXT 1 0 17 "    \+
+            \n" }{MPLTEXT 1 0 16 "            od:\n" }{MPLTEXT 1 0 1 "
+\n" }{MPLTEXT 1 0 61 "            Betti:= appendb(Betti, coldim(mats[c
+ard(mats)]) \n" }{MPLTEXT 1 0 65 "                           - rank(tr
+anspose(mats[card(mats)]))):\n" }{MPLTEXT 1 0 18 "                 \n"
+ }{MPLTEXT 1 0 55 "            Betti := replace(Betti, 1, Betti[1] + 1
+ ):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 42 "            for i from 2
+ to card(mats) do\n" }{MPLTEXT 1 0 66 "                Torsion := appe
+ndb(Torsion, david_diag(mats[i])):\n" }{MPLTEXT 1 0 16 "            od
+:\n" }{MPLTEXT 1 0 45 "            Torsion := appendb(Torsion, []):\n"
+ }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 30 "            [Betti, Torsion]:
+\n" }{MPLTEXT 1 0 12 "           \n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 17 "            end:\n" }}}}{SECT 0 {PARA 212 "" 0 "" {TEXT 205 14 "
+Basic examples" }}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 250 
+25 "The homology of a point:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 16 "homology(\{\{0\}\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7#\"\"
+\"7#7\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 250 32 "The
+ homology of a line segment:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 19 "homology(\{\{1, 2\}\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7$
+\"\"\"\"\"!7$7\"F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 
+250 21 "The homology of S^1:\n" }{TEXT 250 1 " " }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 29 "S1 := \{ \{1,2\},\{2,3\},\{3,1\} \}:\n" }
+{MPLTEXT 1 0 15 "homology( S1 );" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7$
+\"\"\"F$7$7\"F&" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 
+250 46 "The figure 8 space has two generators for H1:\n" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 55 "figure8 := \{ \{1,2\},\{2,3\},\{3,1
+\}, \{3,a\}, \{a,b\}, \{b,3\} \};\n" }{MPLTEXT 1 0 18 "homology(figure
+8);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I(figure8G6\"<(<$\"\"\"\"\"#<$F'
+\"\"$<$F(F*<$F*I\"aGF$<$F*I\"bGF$<$F-F/" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "7$7$\"\"\"\"\"#7$7\"F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n"
+ }{TEXT 250 69 "The zeroth homology group counts the number of connect
+ed components:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "homolog
+y( S1 union \{ \{a\}, \{b\}, \{c\} \} );" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "7$7$\"\"%\"\"\"7$7\"F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n"
+ }{TEXT 250 70 "Here is a rountine that will make a simplex of any dim
+ension for you:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "simplx
+ := proc(n)\n" }{MPLTEXT 1 0 19 "          local i:\n" }{MPLTEXT 1 0 
+29 "          \{seq(i,i=1..n+1)\}:\n" }{MPLTEXT 1 0 15 "          end:
+ " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "simplx(3);" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "<&\"\"\"\"\"#\"\"$\"\"%" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 20 "homology(simplx(3));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$7&\"\"\"\"\"!F%F%7&7\"F'F'F'" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 205 1 "\n" }{TEXT 205 11 "A  square:\n" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 66 "squar := \{ \{1,2,5\}, \{2,5,6\}, \{2,3,6\}, \{3
+,6,7\}, \{3,4,7\}, \{4,7,8\} \};" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&s
+quarG6\"<(<%\"\"\"\"\"#\"\"&<%F(\"\"$\"\"'<%F(F)F,<%F+\"\"%\"\"(<%F+F,
+F0<%F/F0\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 205 
+165 "Now compute the homology: It should have only one non-trivial gro
+up, the zeroth group, with is isomorphic to Z, the integers and hence \+
+has rank 1. It has no torsion." }{TEXT 244 1 "\n" }{TEXT 245 1 " " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "homology(squar);" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"!F%7%7\"F'F'" }}}{EXCHG {PARA 0 ""
+ 0 "" {TEXT 250 1 "\n" }{TEXT 205 92 "\"subs\"is a cute way to make qu
+otient spaces! Here we glue the edges of the square together.\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "cylinder := subs(4=1,8=5,squ
+ar);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I)cylinderG6\"<(<%\"\"\"\"\"#\"
+\"&<%F'\"\"$\"\"(<%F'F)F,<%F(F+\"\"'<%F(F)F/<%F+F/F," }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 205 69 "The cylinder is not simply, \+
+connected: the first homology group is Z." }{TEXT 246 1 "\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "homology(cylinder);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "7$7%\"\"\"F$\"\"!7%7\"F'F'" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 250 31 "A \"famous\" topologic
+al space!:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "mobius_stri
+p := subs(4=5,8=1,squar);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I-mobius_s
+tripG6\"<(<%\"\"\"\"\"#\"\"&<%F'F)\"\"(<%F(\"\"$\"\"'<%F(F)F.<%F-F)F+<
+%F-F.F+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "homology(mobius_
+strip);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7%\"\"\"F$\"\"!7%7\"F'F'" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 205 164 "Next we want
+ to build a torus. But careful - we don't have enough triangles in squ
+ar to form a torus as a quotient. So we make a few copies and glue the
+m together.\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "squar2 := \+
+subs(1=5,2=6,3=7,4=8,subs(5=9,6=10, 7=11, 8=12, squar));" }}{PARA 11 "
+" 0 "" {TEXT 251 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I'squar2G6\"<(<
+%\"\"&\"\"'\"\"*<%F(\"\"(\"#5<%F(F)F,<%F+\"\")\"#6<%F+F,F0<%F/F0\"#7" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 73 "squar3:= subs(5=9,6=10,7=
+11,8=12,subs(9=13,10=14, 11=15, 12=16, squar2));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I'squar3G6\"<(<%\"\"*\"#5\"#8<%F(\"#6\"#9<%F(F)F,<%F+\"#
+7\"#:<%F+F,F0<%F/F0\"#;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "
+bigsquare := squar3 union squar union squar2;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I*bigsquareG6\"<4<%\"\"\"\"\"#\"\"&<%F(\"\"$\"\"'<%F(F)F
+,<%F+\"\"%\"\"(<%F+F,F0<%F/F0\"\")<%F)F,\"\"*<%F,F0\"#5<%F,F5F7<%F0F3
+\"#6<%F0F7F:<%F3F:\"#7<%F5F7\"#8<%F7F:\"#9<%F7F?FA<%F:F=\"#:<%F:FAFD<%
+F=FD\"#;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "bigcylinder := \+
+subs(13=1, 14=2,15=3,16=4, bigsquare);" }}{PARA 11 "" 1 "" {XPPMATH 20
+ ">I,bigcylinderG6\"<4<%\"\"\"\"\"#\"\"&<%F'F(\"#5<%F'\"\"*F+<%F(\"\"$
+\"\"'<%F(F/\"#6<%F(F)F0<%F(F+F2<%F/\"\"%\"\"(<%F/F6\"#7<%F/F0F7<%F/F2F
+9<%F6F7\"\")<%F)F0F-<%F0F7F+<%F0F-F+<%F7F=F2<%F7F+F2<%F=F2F9" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "homology(bigcylinder);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "7$7%\"\"\"F$\"\"!7%7\"F'F'" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "torus := subs(4=1,8=5,12=9, bigcyli
+nder);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&torusG6\"<4<%\"\"\"\"\"#\"
+\"&<%F'F(\"#5<%F'\"\"$\"\"(<%F'F-\"\"*<%F'F)F.<%F'F0F+<%F(F-\"\"'<%F(F
+-\"#6<%F(F)F4<%F(F+F6<%F-F4F.<%F-F0F6<%F)F4F0<%F)F.F6<%F)F0F6<%F4F.F+<
+%F4F0F+<%F.F+F6" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "homology
+(torus);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"#F$7%7\"F'F'" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "klein := subs(4=1,8=9,12=
+5, bigcylinder);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I&kleinG6\"<4<%\"\"
+\"\"\"#\"\"&<%F'F(\"#5<%F'\"\"$F)<%F'F-\"\"(<%F'F/\"\"*<%F'F1F+<%F(F-
+\"\"'<%F(F-\"#6<%F(F)F4<%F(F+F6<%F-F)F6<%F-F4F/<%F)F4F1<%F)F1F6<%F4F/F
++<%F4F1F+<%F/F1F6<%F/F+F6" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" 
+}{TEXT 250 30 "The Klein bottle has torsion:\n" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 16 "homology(klein);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "7$7%\"\"\"F$\"\"!7%7\"7#\"\"#F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+250 1 "\n" }{TEXT 250 31 "S2 is not hard to triangulate:\n" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "tetrahedron := \{ \{1,2,3\}, \{1,2,
+4\}, \{1,3,4\}, \{2,3,4\}\};" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I,tetra
+hedronG6\"<&<%\"\"\"\"\"#\"\"$<%F'F(\"\"%<%F'F)F+<%F(F)F+" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "homology(tetrahedron);" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"!F$7%7\"F'F'" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT 247 1 "\n" }{TEXT 205 123 "There is a better way to build s
+pheres - use the \"choose\" function to generate the faces of the n di
+mensional tetrahedron:\n" }{TEXT 205 147 "(Note - in the older version
+ of Maple, choose only applies to lists. If you in this situation, use
+ the function defined below called \"setchoose\".)\n" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 103 "### WARNING: combinat[choose] with numer
+ic first parameter now returns a sorted list rather than a set\n" }
+{MPLTEXT 1 0 28 "S3 := choose(\{1,2,3,4,5\},4);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I#S3G6\"<'<&\"\"\"\"\"#\"\"$\"\"%<&F'F(F)\"\"&<&F'F(F*F,
+<&F'F)F*F,<&F(F)F*F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "hom
+ology(S3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7&\"\"\"\"\"!F%F$7&7\"F'
+F'F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 250 55 "Here i
+s the way to do this in older versions of Maple:\n" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 27 "listtoset := x -> \{op(x)\}:\n" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 24 "setchoose := proc(S, n)\n" }{MPLTEXT 1 0 
+103 "### WARNING: combinat[choose] with numeric first parameter now re
+turns a sorted list rather than a set\n" }{MPLTEXT 1 0 54 "           \+
+  map(listtoset,\{op(choose([op(S)], n))\}):\n" }{MPLTEXT 1 0 17 "    \+
+         end:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "S3 := setc
+hoose(\{1,2,3,4,5\},4);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I#S3G6\"<'<&
+\"\"\"\"\"#\"\"$\"\"%<&F'F(F)\"\"&<&F'F(F*F,<&F'F)F*F,<&F(F)F*F," }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "homology(S3);" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "7$7&\"\"\"\"\"!F%F$7&7\"F'F'F'" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 250 1 "\n" }{TEXT 250 39 "It is handy to have this a a fu
+nction:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 103 "### WARNING: \+
+combinat[choose] with numeric first parameter now returns a sorted lis
+t rather than a set\n" }{MPLTEXT 1 0 40 "sphere := n -> choose(simplx(
+n+1),n+1):\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "S2 := spher
+e(2);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I#S2G6\"<&<%\"\"\"\"\"#\"\"$<%
+F'F(\"\"%<%F'F)F+<%F(F)F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 248 1 "\n" 
+}{TEXT 205 79 "The one point union of S^1 and S^2: just make sure they
+ have a point in common." }{TEXT 249 1 "\n" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 103 "### WARNING: combinat[choose] with numeric first p
+arameter now returns a sorted list rather than a set\n" }{MPLTEXT 1 0 
+29 "newS2 := choose(\{1,b,c,d\},3);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">
+I&newS2G6\"<&<%\"\"\"I\"bGF$I\"cGF$<%F'F(I\"dGF$<%F'F)F+<%F(F)F+" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "homology(newS2);" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"!F$7%7\"F'F'" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 25 "homology(S1 union newS2);" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "7$7%\"\"\"F$F$7%7\"F&F&" }}}}{SECT 0 {PARA 213 "" 0 "" 
+{TEXT 205 43 "Operations on spaces and some more examples" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 250 47 "Here are some of the s
+paces that appear above:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+29 "S1 := \{ \{1,2\},\{2,3\},\{3,1\} \}:\n" }{MPLTEXT 1 0 55 "figure8 \+
+:= \{ \{1,2\},\{2,3\},\{3,1\}, \{3,a\}, \{a,b\}, \{b,3\} \}:\n" }
+{MPLTEXT 1 0 67 "squar := \{ \{1,2,5\}, \{2,5,6\}, \{2,3,6\}, \{3,6,7
+\}, \{3,4,7\}, \{4,7,8\} \}:\n" }{MPLTEXT 1 0 33 "cylinder := subs(4=1
+,8=5,squar):\n" }{MPLTEXT 1 0 37 "mobius_strip := subs(4=5,8=1,squar):
+\n" }{MPLTEXT 1 0 237 "bigsquare := \{\{4, 7, 8\}, \{5, 6, 9\}, \{6, 9
+, 10\}, \{7, 10, 11\}, \{6, 7, 10\}, \{8, 11, 12\}, \{7, 8, 11\}, \{10
+, 13, 14\}, \{9, 10, 13\}, \{11, 14, 15\}, \{10, 11, 14\}, \{12, 15, 1
+6\}, \{11, 12, 15\}, \{1, 2, 5\}, \{2, 5, 6\}, \{2, 3, 6\}, \{3, 6, 7
+\}, \{3, 4, 7\}\}:\n" }{MPLTEXT 1 0 54 "bigcylinder := subs(13=1, 14=2
+,15=3,16=4, bigsquare):\n" }{MPLTEXT 1 0 42 "torus := subs(4=1,8=5,12=
+9, bigcylinder):\n" }{MPLTEXT 1 0 42 "klein := subs(4=1,8=9,12=5, bigc
+ylinder):\n" }{MPLTEXT 1 0 54 "tetrahedron := \{ \{1,2,3\}, \{1,2,4\},
+ \{1,3,4\}, \{2,3,4\}\}:\n" }{MPLTEXT 1 0 52 "S2 := \{\{1, 2, 3\}, \{1
+, 2, 4\}, \{2, 3, 4\}, \{1, 3, 4\}\}:\n" }{MPLTEXT 1 0 77 "S3 := \{\{1
+, 2, 3, 4\}, \{1, 2, 3, 5\}, \{1, 2, 4, 5\}, \{1, 3, 4, 5\}, \{2, 3, 4
+, 5\}\}:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 250 92 "A \+
+new operation: \"cone\" constructs the simpicial complex of a given co
+mplex and cone point.\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "
+cone := proc(C, conepoint)\n" }{MPLTEXT 1 0 24 "        local i,  cone
+:\n" }{MPLTEXT 1 0 22 "        cone := \{\{\}\}:\n" }{MPLTEXT 1 0 35 "
+        for i from 1 to card(C) do\n" }{MPLTEXT 1 0 57 "            co
+ne := cone union \{\{conepoint\} union C[i]\}:\n" }{MPLTEXT 1 0 12 "  \+
+      od:\n" }{MPLTEXT 1 0 14 "        cone:\n" }{MPLTEXT 1 0 13 "    \+
+    end:\n" }{MPLTEXT 1 0 4 "    " }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "cone(S1, N);" }}{PARA 11 "" 1 "" {XPPMATH 20 "<&<\"<%
+\"\"\"\"\"#I\"NG6\"<%F%\"\"$F'<%F&F*F'" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 250 1 "\n" }{TEXT 250 73 "Another way to compute the homology of
+ S2: write it as a union of cones.\n" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 40 "homology(cone(S1, N) union cone(S1, S));" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"!F$7%7\"F'F'" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT 250 1 "\n" }{TEXT 250 40 "This leads to the notion of suspe
+nsion:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "suspension := p
+roc(C, p, q)\n" }{MPLTEXT 1 0 44 "              cone(C, p) union cone \+
+(C, q):\n" }{MPLTEXT 1 0 19 "              end:\n" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 250 1 "\n" }{TEXT 250 31 "Here is an interesting space :
+\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "homology(suspension(t
+orus, N, S));" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7&\"\"\"\"\"!\"\"#F$7
+&7\"F(F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 250 1 "\n" }{TEXT 250 26 "
+The Euler characteristic:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+17 "oiler := proc(C)\n" }{MPLTEXT 1 0 32 "         local i, eulerchar,
+ X:\n" }{MPLTEXT 1 0 25 "         eulerchar := 0:\n" }{MPLTEXT 1 0 35 
+"         X := stratify(complx(C)):\n" }{MPLTEXT 1 0 36 "         for \+
+i from 2 to card(X) do\n" }{MPLTEXT 1 0 59 "             eulerchar := \+
+eulerchar + card(X[i])*((-1)^i):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 13 "         od:\n" }{MPLTEXT 1 0 20 "         eulerchar:\n" }
+{MPLTEXT 1 0 14 "         end: " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 13 "oiler(torus);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 103 "### WARNING: combinat[choos
+e] with numeric first parameter now returns a sorted list rather than \+
+a set\n" }{MPLTEXT 1 0 27 "S2 := choose(\{1,2,3,4\},3);\n" }{MPLTEXT 
+1 0 10 "oiler(S2);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I#S2G6\"<&<%\"\"
+\"\"\"#\"\"$<%F'F(\"\"%<%F'F)F+<%F(F)F+" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "oiler(klein);"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 250 1 "\n" }{TEXT 250 180 "The connected sum of two spaces is fo
+rmed by removing a solid ball from each space and gluing the spaces al
+ong the boundaries of the ball. In dimensions > 2 how you glue matters
+. \n" }{TEXT 250 1 "\n" }{TEXT 250 252 "WARNING - this connected sum c
+hooses the gluing arbitrarily. Two simplices are removed and their ver
+tices indentified, but how they are ordered is random at this time.  A
+lso, no checking is done to see if both of the manifolds have the same
+ dimension.\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "tag0 := C \+
+-> map( S-> map(x->[x, 0],S),C):\n" }{MPLTEXT 1 0 43 "tag1 := C -> map
+( S-> map(x->[x, 1],S),C):\n" }{MPLTEXT 1 0 23 "conn_sum := proc(X, Y)
+\n" }{MPLTEXT 1 0 66 "                 local i, A, B, asimplex, bsimpl
+ex, alist, blist:\n" }{MPLTEXT 1 0 39 "                 A := complx(ta
+g0(X)):\n" }{MPLTEXT 1 0 39 "                 B := complx(tag1(Y)):\n"
+ }{MPLTEXT 1 0 39 "                 alist := stratify(A):\n" }{MPLTEXT
+ 1 0 39 "                 blist := stratify(B):\n" }{MPLTEXT 1 0 52 " \+
+                asimplex := alist[card(alist)][1]:\n" }{MPLTEXT 1 0 
+52 "                 bsimplex := blist[card(blist)][1]:\n" }{MPLTEXT 
+1 0 42 "                 A := A minus \{asimplex\}:\n" }{MPLTEXT 1 0 
+42 "                 B := B minus \{bsimplex\}:\n" }{MPLTEXT 1 0 51 " \+
+                for i from 1 to card(asimplex) do\n" }{MPLTEXT 1 0 60 
+"                     B := subs(bsimplex[i]=asimplex[i], B):\n" }
+{MPLTEXT 1 0 21 "                 od:\n" }{MPLTEXT 1 0 28 "           \+
+      A union B:\n" }{MPLTEXT 1 0 22 "                 end:\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "conn_sum(S1, S1);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "<+<\"<#7$\"\"\"\"\"!<#7$\"\"#F'<#7$\"\"$F'<#7$
+F-F&<$F%F,<$F%F/<$F)F,<$F)F/" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 27 "homology(conn_sum(S1, S1));" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7
+$\"\"\"F$7$7\"F&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "C := co
+nn_sum(torus, torus):\n" }{MPLTEXT 1 0 13 "homology(C);\n" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"%F$7%7\"F'F'" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 9 "oiler(C);" }}{PARA 11 "" 1 "" {XPPMATH 20 "!\"#
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "C:= conn_sum(S2, S2):\n
+" }{MPLTEXT 1 0 13 "homology(C);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$
+7%\"\"\"\"\"!F$7%7\"F'F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "
+oiler(C);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"#" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 26 "C := conn_sum(torus, S2):\n" }{MPLTEXT 1 0 
+12 "homology(C);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"#F$7%7
+\"F'F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "oiler(C);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 29 "C := conn_sum(torus, klein):\n" }{MPLTEXT 1 0 12 "hom
+ology(C);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7%\"\"\"\"\"$\"\"!7%7\"7#
+\"\"#F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "oiler(C);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "!\"#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
